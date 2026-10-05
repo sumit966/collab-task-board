@@ -1,0 +1,21 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Data
+data/*.db
+data/*.sqlite
+!data/.gitkeep
